@@ -7,12 +7,15 @@ The scraper is designed to be lightweight, extensible, and easy to integrate, ma
 
 Python 3.8 or newer
 requests and beautifulsoup4 libraries
+
 Basic knowledge of Python scripting and HTML structure
 
 📬 Contact
 Feel free to reach out if you have questions or feedback!
+
 You can find me on Telegram: @AmirDevil
 
 🛡️ License
 This project is licensed under the MIT License.
+
 By contributing, you agree that your contributions will be released under the same license.
